@@ -1,0 +1,10 @@
+name: Pmarket
+main: Pmarket\Main
+version: "1.0.0"
+author: Puki
+api: 3.0.0
+commands:
+ 상점:
+  description: 상점명령어
+ 판매:
+  description: 판매명령어
