@@ -1,6 +1,6 @@
 name: Pmarket
 main: Pmarket\Main
-version: "1.0.0"
+version: 1.0.0
 author: Puki
 api: 3.0.0
 commands:
